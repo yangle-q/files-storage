@@ -1,6 +1,8 @@
 @fontface {
-  font-family: 'BAUHS93'
-  src: url('./BAUHS93.ttf')
+  font-family: 'BAUHS93';
+  src: url('./BAUHS93.ttf');
+}
 
 #title {
-  font-family: BAUHS93
+  font-family: BAUHS93;
+}
