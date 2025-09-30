@@ -3,6 +3,6 @@
   src: url('../BAUHS93.ttf');
 }
 
-#title {
+body {
   font-family: title;
 }
