@@ -21,9 +21,9 @@ a{
 
 #container{
   min-height: 100em;
-  max-height: 1000em;
+  max-height: 500em;
   min-width: 100em;
-  max-width: 1000em;
+  max-width: 700em;
   margin: 20px auto 20px auto;
   border: 2px solid black;
   border-radius: 10px;
