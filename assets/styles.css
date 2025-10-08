@@ -26,4 +26,5 @@ a{
   margin: 20px;
   border: 2px solid #fff;
   text-align: auto;
-  border-radius: 10px;}
+  border-radius: 10px;
+  overflow: scroll;}
