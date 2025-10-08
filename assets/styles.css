@@ -21,8 +21,8 @@ a{
   border-radius: 10px;}
 
 #container{
-  height: 50%;
-  width: 50%;
+  height: 100px;
+  width: 100px;
   margin: 20px;
   border: 2px solid #fff;
   text-align: auto;
