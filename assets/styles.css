@@ -20,10 +20,10 @@ a{
   border-radius: 10px;}
 
 #container{
-  min-height: 100em;
-  max-height: 500em;
-  min-width: 100em;
-  max-width: 700em;
+  min-height: 10em;
+  max-height: 50em;
+  min-width: 10em;
+  max-width: 70em;
   margin: 20px auto 20px auto;
   border: 2px solid black;
   border-radius: 10px;
