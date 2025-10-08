@@ -1,8 +1,9 @@
 @font-face {
   font-family: 'title';
-  src: url('../BAUHS93.ttf');
-}
+  src: url('../BAUHS93.ttf');}
 
 #title{
-  font-family: title;
-}
+  font-family: title;}
+
+a{
+  text-decoration: none;}
