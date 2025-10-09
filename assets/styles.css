@@ -2,8 +2,13 @@
   font-family: 'title';
   src: url('../BAUHS93.ttf');}
 
+body{
+  overflow: hidden;
+  background-image: url('background01.jpg');}
+  
 #title{
-  font-family: title;}
+  font-family: title;
+  font-size: 2em;}
 
 a{
   text-decoration: none;}
@@ -20,12 +25,12 @@ a{
   border-radius: 10px;}
 
 #container{
-  height: 100em;
-  width: 200em;
+  max-height: 75%;
+  max-width: 60%;
   margin: 20px auto 20px auto;
   border: 2px solid black;
   border-radius: 10px;
-  overflow: scroll;}
+  overflow: auto;}
 
 h1{
   margin: 20px auto 20px auto;}
