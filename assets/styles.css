@@ -3,7 +3,7 @@
   src: url('../BAUHS93.ttf');}
 
 body{
-  overflow: hidden;
+  overflow: auto;
   background-image: url('background02.jpg');
   background-repeat: no-repeat;
   background-size: cover;
