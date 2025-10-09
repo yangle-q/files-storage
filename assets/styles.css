@@ -31,9 +31,7 @@ a{
   height: 50px;
   width: 50px;
   display: block;
-  position: absolute;
-  top: 3%;
-  right: 35%}
+  }
 
 .links{
   border: 2px solid black;
