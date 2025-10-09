@@ -31,7 +31,8 @@ a{
   height: 50px;
   width: 50px;
   display: inline-block;
-  }
+  position: relative;
+  bottom: 3%;}
 
 .links{
   border: 2px solid black;
