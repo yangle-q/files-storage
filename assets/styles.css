@@ -28,12 +28,12 @@ a{
   text-decoration: none;}
 
 #imglink{
-  height: 30px;
-  width: 30px;
+  height: 50px;
+  width: 50px;
   display: block;
   position: absolute;
-  top: 5%;
-  right: 40%}
+  top: 4%;
+  right: 30%}
 
 .links{
   border: 2px solid black;
