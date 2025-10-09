@@ -10,6 +10,8 @@ html,body{
   padding: 0;}
 
 body{
+  display: flex;
+  flex-direction: column;
   overflow: auto;
   background-image: url('background02.jpg');
   background-repeat: no-repeat;
