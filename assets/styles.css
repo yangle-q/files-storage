@@ -32,7 +32,7 @@ a{
   width: 50px;
   display: inline-block;
   position: relative;
-  bottom: 10px;}
+  top: 10px;}
 
 .links{
   border: 2px solid black;
