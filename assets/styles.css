@@ -4,7 +4,8 @@
 
 body{
   overflow: hidden;
-  background-image: url('background01.jpg');}
+  background-image: url('background01.jpg');
+  background-repeat: no-repeat;}
   
 #title{
   font-family: title;
