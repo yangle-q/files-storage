@@ -10,6 +10,8 @@ html,body{
   padding: 0;}
 
 body{
+  display: grid;
+  grid-template-rows: auto 1fr auto;
   overflow: auto;
   background-image: url('background02.jpg');
   background-repeat: no-repeat;
