@@ -2,6 +2,10 @@
   font-family: 'title';
   src: url('../BAUHS93.ttf');}
 
+html,body{
+  margin: 0;
+  padding: 0;}
+
 body{
   overflow: auto;
   background-image: url('background02.jpg');
