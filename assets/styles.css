@@ -21,7 +21,8 @@ body{
   
 #title{
   font-family: title;
-  font-size: 2em;}
+  font-size: 2em;
+  margin: 20px auto 20px auto;}
 
 a{
   text-decoration: none;}
