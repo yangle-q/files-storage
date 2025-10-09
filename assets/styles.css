@@ -30,7 +30,10 @@ a{
 #imglink{
   height: 30px;
   width: 30px;
-  display: inline-block;}
+  display: block;
+  position: absolute;
+  top: 10%;
+  left: 30%}
 
 .links{
   border: 2px solid black;
