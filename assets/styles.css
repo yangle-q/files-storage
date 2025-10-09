@@ -6,7 +6,8 @@ body{
   overflow: hidden;
   background-image: url('background01.jpg');
   background-repeat: no-repeat;
-  background-size: contain;}
+  background-size: contain;
+  background-position: center center}
   
 #title{
   font-family: title;
