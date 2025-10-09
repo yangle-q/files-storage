@@ -5,7 +5,8 @@
 body{
   overflow: hidden;
   background-image: url('background01.jpg');
-  background-repeat: no-repeat;}
+  background-repeat: no-repeat;
+  background-size: cover;}
   
 #title{
   font-family: title;
