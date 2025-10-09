@@ -36,8 +36,8 @@ a{
   border-radius: 10px;}
 
 #container{
-  max-height: 90%;
-  max-width: 90%;
+  max-height: 75%;
+  max-width: 80%;
   margin: 20px auto 20px auto;
   padding: 20px;
   border: 2px solid black;
