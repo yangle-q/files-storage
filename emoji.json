@@ -1121,111 +1121,428 @@
     ]
   },
   "别酱": {
-    "type": "image",
-    "container": [
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_001.png'>",
-        "text": "别酱001"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_002.png'>",
-        "text": "别酱002"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_003.png'>",
-        "text": "别酱003"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_004.png'>",
-        "text": "别酱004"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_005.png'>",
-        "text": "别酱005"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_006.png'>",
-        "text": "别酱006"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_007.png'>",
-        "text": "别酱007"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_008.png'>",
-        "text": "别酱008"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_009.png'>",
-        "text": "别酱009"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_010.png'>",
-        "text": "别酱010"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_011.png'>",
-        "text": "别酱011"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_012.png'>",
-        "text": "别酱012"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_013.png'>",
-        "text": "别酱013"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_014.png'>",
-        "text": "别酱014"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_015.png'>",
-        "text": "别酱015"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_016.png'>",
-        "text": "别酱016"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_017.png'>",
-        "text": "别酱017"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_018.png'>",
-        "text": "别酱018"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_019.png'>",
-        "text": "别酱019"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_020.png'>",
-        "text": "别酱020"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_021.png'>",
-        "text": "别酱021"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_022.png'>",
-        "text": "别酱022"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_023.png'>",
-        "text": "别酱023"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090137_024.png'>",
-        "text": "别酱024"
-      },
-      {
-        "icon": "<img src='https://files.yoxo.top/emojis/DM_20251019090217_001.png'>",
-        "text": "别酱025"
-      }
+  "type": "image",
+  "container": [
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_01.webp'>",
+      "text": "别酱001"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_02.webp'>",
+      "text": "别酱002"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_03.webp'>",
+      "text": "别酱003"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_04.webp'>",
+      "text": "别酱004"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_05.webp'>",
+      "text": "别酱005"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_06.webp'>",
+      "text": "别酱006"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_07.webp'>",
+      "text": "别酱007"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_08.webp'>",
+      "text": "别酱008"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_09.webp'>",
+      "text": "别酱009"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_10.webp'>",
+      "text": "别酱010"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_11.webp'>",
+      "text": "别酱011"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_12.webp'>",
+      "text": "别酱012"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_13.webp'>",
+      "text": "别酱013"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_14.webp'>",
+      "text": "别酱014"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_15.webp'>",
+      "text": "别酱015"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_16.webp'>",
+      "text": "别酱016"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_17.webp'>",
+      "text": "别酱017"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_18.webp'>",
+      "text": "别酱018"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_19.webp'>",
+      "text": "别酱019"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_20.webp'>",
+      "text": "别酱020"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_21.webp'>",
+      "text": "别酱021"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_22.webp'>",
+      "text": "别酱022"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_23.webp'>",
+      "text": "别酱023"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/hans_24.webp'>",
+      "text": "别酱024"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_001.webp'>",
+      "text": "别酱2_001"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_002.webp'>",
+      "text": "别酱2_002"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_003.webp'>",
+      "text": "别酱2_003"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_004.webp'>",
+      "text": "别酱2_004"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_005.webp'>",
+      "text": "别酱2_005"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_006.webp'>",
+      "text": "别酱2_006"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_007.webp'>",
+      "text": "别酱2_007"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_008.webp'>",
+      "text": "别酱2_008"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_009.webp'>",
+      "text": "别酱2_009"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_010.webp'>",
+      "text": "别酱2_010"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_011.webp'>",
+      "text": "别酱2_011"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_012.webp'>",
+      "text": "别酱2_012"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_013.webp'>",
+      "text": "别酱2_013"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_014.webp'>",
+      "text": "别酱2_014"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_015.webp'>",
+      "text": "别酱2_015"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_016.webp'>",
+      "text": "别酱2_016"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_017.webp'>",
+      "text": "别酱2_017"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_018.webp'>",
+      "text": "别酱2_018"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_019.webp'>",
+      "text": "别酱2_019"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_020.webp'>",
+      "text": "别酱2_020"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_021.webp'>",
+      "text": "别酱2_021"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_022.webp'>",
+      "text": "别酱2_022"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_023.webp'>",
+      "text": "别酱2_023"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_024.webp'>",
+      "text": "别酱2_024"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_025.webp'>",
+      "text": "别酱2_025"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_026.webp'>",
+      "text": "别酱2_026"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_027.webp'>",
+      "text": "别酱2_027"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_028.webp'>",
+      "text": "别酱2_028"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_029.webp'>",
+      "text": "别酱2_029"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_030.webp'>",
+      "text": "别酱2_030"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_031.webp'>",
+      "text": "别酱2_031"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_032.webp'>",
+      "text": "别酱2_032"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_033.webp'>",
+      "text": "别酱2_033"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_034.webp'>",
+      "text": "别酱2_034"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_035.webp'>",
+      "text": "别酱2_035"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_036.webp'>",
+      "text": "别酱2_036"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_037.webp'>",
+      "text": "别酱2_037"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_038.webp'>",
+      "text": "别酱2_038"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_039.webp'>",
+      "text": "别酱2_039"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/stamp2_hans_040.webp'>",
+      "text": "别酱2_040"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/001.webp'>",
+      "text": "别酱3_001"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/002.webp'>",
+      "text": "别酱3_002"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/003.webp'>",
+      "text": "别酱3_003"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/004.webp'>",
+      "text": "别酱3_004"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/005.webp'>",
+      "text": "别酱3_005"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/006.webp'>",
+      "text": "别酱3_006"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/007.webp'>",
+      "text": "别酱3_007"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/008.webp'>",
+      "text": "别酱3_008"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/009.webp'>",
+      "text": "别酱3_009"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/010.webp'>",
+      "text": "别酱3_010"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/011.webp'>",
+      "text": "别酱3_011"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/012.webp'>",
+      "text": "别酱3_012"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/013.webp'>",
+      "text": "别酱3_013"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/014.webp'>",
+      "text": "别酱3_014"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/015.webp'>",
+      "text": "别酱3_015"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/016.webp'>",
+      "text": "别酱3_016"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/017.webp'>",
+      "text": "别酱3_017"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/018.webp'>",
+      "text": "别酱3_018"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/019.webp'>",
+      "text": "别酱3_019"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/020.webp'>",
+      "text": "别酱3_020"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/021.webp'>",
+      "text": "别酱3_021"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/022.webp'>",
+      "text": "别酱3_022"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/023.webp'>",
+      "text": "别酱3_023"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/024.webp'>",
+      "text": "别酱3_024"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/025.webp'>",
+      "text": "别酱3_025"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/026.webp'>",
+      "text": "别酱3_026"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/027.webp'>",
+      "text": "别酱3_027"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/028.webp'>",
+      "text": "别酱3_028"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/029.webp'>",
+      "text": "别酱3_029"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/030.webp'>",
+      "text": "别酱3_030"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/031.webp'>",
+      "text": "别酱3_031"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/032.webp'>",
+      "text": "别酱3_032"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/033.webp'>",
+      "text": "别酱3_033"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/034.webp'>",
+      "text": "别酱3_034"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/035.webp'>",
+      "text": "别酱3_035"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/036.webp'>",
+      "text": "别酱3_036"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/037.webp'>",
+      "text": "别酱3_037"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/038.webp'>",
+      "text": "别酱3_038"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/039.webp'>",
+      "text": "别酱3_039"
+    },
+    {
+      "icon": "<img src='https://pic-1.yoxo.top/040.webp'>",
+      "text": "别酱3_040"
+    }
     ]
   }
 }
+
 
 
 
